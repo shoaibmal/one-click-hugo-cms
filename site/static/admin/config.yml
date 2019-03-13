@@ -87,7 +87,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Services
-            name: servuces
+            name: services
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
